@@ -1,0 +1,13 @@
+---
+layout: post
+title: 젤리사용법
+date: 2024-12-11 19:20:23 +0900
+category: sample
+---
+# 로컬에 server띄우기
+> jekyll serve!
+
+This is code
+```ruby
+print 'hello world'
+```
